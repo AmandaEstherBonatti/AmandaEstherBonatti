@@ -1,7 +1,6 @@
 ### Bom dia 👋
 
-“Sempre escolha uma pessoa preguiçosa para realizar uma tarefa difícil. Ela sempre irá achar a maneira mais simples de se fazer.” 
-_ Bill Gates
+“Não é a linguagem de programação que define o programador, mas sim sua lógica.”
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
