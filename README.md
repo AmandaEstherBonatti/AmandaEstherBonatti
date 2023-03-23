@@ -11,8 +11,8 @@ object **Amanda** {
 val name = "Amanda Esther Bonatti"
 val acknowledgements = "Desenvolvedora Fullstack"
 
-val primarySkillset = listOf("Organização", "Autodidata", "Trabalho em equipe", "Inteligência Interpessoal", "Paciência")
-val languages = listOf("Java", "Typescript", "JavaScript","Dart", "MySQL", "PostgreSQL", "C#") 
+val primarySkillset = listOf("Organização", "Autodidata", "Inteligência Interpessoal", "Paciência")
+val languages = listOf(""C#"", "Typescript", "JavaScript","Dart") 
 
 
 }
