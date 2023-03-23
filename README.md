@@ -1,16 +1,35 @@
-### Hi there 👋
+### Bom dia 👋
 
-<!--
-**AmandaEstherBonatti/AmandaEstherBonatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“Sempre escolha uma pessoa preguiçosa para realizar uma tarefa difícil. Ela sempre irá achar a maneira mais simples de se fazer.” — Bill Gates
 
-Here are some ideas to get you started:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Amanda** {
+val name = "Amanda Esther Bonatti"
+val acknowledgements = "Desenvolvedora Fullstack"
+
+val primarySkillset = listOf("Organização", "Autodidata", "Trabalho em equipe", "Inteligência Interpessoal", "Paciência")
+val languages = listOf("Java", "Typescript", "JavaScript","Dart", "MySQL", "PostgreSQL", "C#") 
+
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,cs,dart,eclipse,git,java,mysql,nestjs,nodejs,postgres,react,ts,visualstudio,vscode)](https://skillicons.dev)
+
+## **GitHub Estatísticas**
+
+<div align="center">
+  <a href="https://https://github.com/AmandaEstherBonatti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaEstherBonatti&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaEstherBonatti&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+<a href = "mailto:amandaestherbonatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/amanda-esther-bonatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div> 
+
+</div>
