@@ -9,6 +9,7 @@
 ```typescript
 let Amanda = {
     name: "Amanda Esther Bonatti",
+    universityEducation: "Engenharia de Software",
     acknowledgements: "Desenvolvedora Fullstack", 
     primarySkillset: ["Autodidata", "Inteligência Interpessoal", "Paciência"],
     languages: ["C#", "Typescript", "Dart", "MySQL"]
