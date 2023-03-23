@@ -6,16 +6,14 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Amanda** {
-val name = "Amanda Esther Bonatti"
-val acknowledgements = "Desenvolvedora Fullstack"
-
-val primarySkillset = listOf("Autodidata", "Inteligência Interpessoal", "Paciência")
-val languages = listOf("C#", "Typescript","Dart") 
-
-
+```typescript
+let Amanda = {
+    name: "Amanda Esther Bonatti",
+    acknowledgements: "Desenvolvedora Fullstack", 
+    primarySkillset: ["Autodidata", "Inteligência Interpessoal", "Paciência"],
+    languages: ["C#", "Typescript", "Dart", "MySQL"]
 }
+
 ```
 
 ## **Linguagens e Ferramentas:**  
