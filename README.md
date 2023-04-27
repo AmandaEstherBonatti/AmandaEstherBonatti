@@ -18,7 +18,7 @@ let Amanda = {
 ```
 
 ## **Linguagens e Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,cs,dart,eclipse,git,java,mysql,nestjs,nodejs,postgres,react,ts,visualstudio,vscode,grpc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,cs,dart,eclipse,git,java,mysql,nestjs,nodejs,postgres,react,ts,visualstudio,vscode,rpc)](https://skillicons.dev)
 
 ## **GitHub Estatísticas**
 
